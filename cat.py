@@ -1,3 +1,6 @@
+'''
+This program prints stdin to the screen.
+'''
 import sys
 
 def cat(file):
